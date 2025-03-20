@@ -1,6 +1,6 @@
 chrononet: CNN-LSTM network +GRU Layers
 
-paper referance for both pytorch implementatin https://arxiv.org/abs/1802.00308
+paper referance for pytorch implementation https://arxiv.org/abs/1802.00308
 
 Figure 2b-Proposed ChronoNet architecture
 which includes both multiple filters of exponentially varying lengths in the 1D convolution layers and
