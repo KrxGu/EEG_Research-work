@@ -1,4 +1,4 @@
-chrononet: CNN-LSTM network
+chrononet: CNN-LSTM network +GRU Layers
 
 paper referance for both pytorch implementatin https://arxiv.org/abs/1802.00308
 
